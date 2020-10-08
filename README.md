@@ -23,5 +23,14 @@ Prerequisites:
 
 1. The Infrastructure components are dependent on previous components. Clone the directory. 
 
-``` git clone https://github.com/kevinpatelco/terragrunt-icon-analytics```.
+  ``` git clone https://github.com/kevinpatelco/terragrunt-icon-analytics```.
+  
+2. Navigate to ```icon-analytics/aws```. You will find all the needed infrastructure components here. Use the following order to deploy the infrastructure by running ```terragrunt apply``` after navigating to the respective folder: 
+  1. network
+  2. rds
+  3. postgres
+  4. airflow
+  5. superset
+
+
 
