@@ -21,9 +21,9 @@ Prerequisites:
 * Terragrunt v0.23.40
 * Ansible
 
-* The Infrastructure components are dependent on previous components. Clone the directory. 
+- The Infrastructure components are dependent on previous components. Clone the directory. 
  ``` git clone https://github.com/kevinpatelco/terragrunt-icon-analytics```.
-* Navigate to ```icon-analytics/aws```. You will find all the needed infrastructure components here. Use the following order to deploy the infrastructure by running ```terragrunt apply``` after navigating to the respective folder: 
+- Navigate to ```icon-analytics/aws```. You will find all the needed infrastructure components here. Use the following order to deploy the infrastructure by running ```terragrunt apply``` after navigating to the respective folder: 
   1. network
   2. rds
   3. postgres
