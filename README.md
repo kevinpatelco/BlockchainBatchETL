@@ -21,3 +21,7 @@ Prerequisites:
 * Terragrunt v0.23.40
 * Ansible
 
+1. The Infrastructure components are dependent on previous components. Clone the directory. 
+
+``` git clone https://github.com/kevinpatelco/terragrunt-icon-analytics```.
+
