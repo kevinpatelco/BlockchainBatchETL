@@ -14,3 +14,10 @@ There are Three main components of this project:
 ## Usage 
 
 ### Project Infrastructure
+The Infrastructure needed for this project can be found at: [terragrunt-icon-analytics](https://github.com/kevinpatelco/terragrunt-icon-analytics). Some postgres scripts were added to allow analysis on data and create charts in Apache Superset. 
+
+Prerequisites:
+* Terraform v0.12.29
+* Terragrunt v0.23.40
+* Ansible
+
