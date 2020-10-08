@@ -2,6 +2,14 @@
 
 Analyze the blocks and quantify anomalies. Data Source : ICON Blockchain
 
+## Table of Contents
+1. [Motivation](#Motivation)
+2. [Project Setup](#Project-Setup)
+3. [Usage](#Usage)
+    - [Project Infrastructure](#Project-Infrastructure)
+    - [SQL Analysis](#SQL-Analysis)
+    - [Charts and Dashboard](#Charts-and-Dashboard)
+
 ## Motivation
 Blockchain data is like Big Data. But unlike Big Data, querying blockchain data is expensive. This is due to the fact that Blockchain Data lives in a decentralized network of nodes that are constantly replicating records among themselves. This project will allow you to deploy a powerful infrastructure for blockchain ETL, creating an environment for data transfer and to perform analytics on the queried data. The data pipeline is develoved using airflow, allowing multiple tasks to schedule that might have dependencies on one another. This project also uses AWS and terraform for easy deployment. 
 
@@ -9,7 +17,7 @@ Blockchain data is like Big Data. But unlike Big Data, querying blockchain data 
 There are Three main components of this project: 
 1. Project Infrastructure
 2. SQL Analysis  
-3. Charts and Dashboards
+3. Charts and Dashboard
 
 ## Usage 
 
@@ -33,6 +41,10 @@ Navigate to ```icon-analytics/aws```. You will find all the needed infrastructur
   3. postgres
   4. airflow
   5. superset
+
+### SQL Analysis  
+
+### Charts and Dashboard 
 
 
 
