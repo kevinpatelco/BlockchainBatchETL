@@ -1,12 +1,12 @@
 # Materialized Views
-  - [Transactions Count Distribution](#transactions_count_distribution)
-  - [Addresses with most transactions received](#address_with_most_transactions_recieved)
-  - [Transactions cluster to and from](#transactions_cluster_to_and_from)
-  - [Score addresses with most transactions](#score_addresses_with_most_transactions)
-  - [Distinct data types(transactions)](#distinct_transaction_data_types(transactions))
-  - [Transactions destination distinct count distribution](#transactions_destination_distinct_count_distribution)
-  - [No Address transaction data type](#no_address_transaction_data_type)
-  - [No address transaction by value](#no_address_transaction_by_value)
+  - [Transactions Count Distribution](#transactions-count-distribution)
+  - [Addresses with most transactions received](#addresses-with-most-transactions-received)
+  - [Transactions cluster to and from](#transactions-cluster-to_and-from)
+  - [Score addresses with most transactions](#score-addresses-with-most-transactions)
+  - [Distinct data types(transactions)](#distinct-transaction-data-types(transactions))
+  - [Transactions destination distinct count distribution](#transactions-destination-distinct-count-distribution)
+  - [No Address transaction data type](#no_address-transaction-data-type)
+  - [No address transaction by value](#no-address-transaction-by-value)
 
 ## Transactions Count Distribution
 ```
