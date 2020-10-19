@@ -8,17 +8,6 @@
 
 Primary keys for each table are **indicated in bold**.
 
-Caution should be exercised when using the timestamp field directly from the API.
-The time resolution of the epoch timestamp changes throughout.
-For ease of use, it is suggested to perform a transformation on this column in all tables to use only the left 16 digits (corresponding to the epoch timestamp in seconds).
-
-A suggested transformation query is:
-
-```sql
-select left(timestamp::text, 10)::int8 as timestamp_s
-```
-
-and can be used to create a transformed column in a new table or materialized view.
 ## Blocks
 
 | Field            	| Type   	|
