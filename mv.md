@@ -2,7 +2,7 @@
 
 - [Transactions Count Distribution](#transactions_count_distribution)
 
-#Transactions Count Distribution
+##Transactions Count Distribution
 ```
 create materialized view transactions_count_distribution as
 select transactions_count.ct, transactions_count.ct_title
