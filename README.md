@@ -8,6 +8,11 @@ Analyze the blocks and quantify anomalies. Data Source : ICON Blockchain
 3. [Usage](#Usage)
     - [Project Infrastructure](#Project-Infrastructure)
     - [SQL Analysis](#SQL-Analysis)
+        - [Schemas](#schemas)
+            - [Blocks](#blocks)
+            - [Transactions](#transactions)
+            - [Logs](#logs)
+            - [Receipts](#receipts)
     - [Charts and Dashboard](#Charts-and-Dashboard)
 
 ## Motivation
@@ -44,11 +49,7 @@ Navigate to ```icon-analytics/aws```. You will find all the needed infrastructur
 
 ### SQL Analysis  
 
-- [Schemas](#schemas)
-  - [Blocks](#blocks)
-  - [Transactions](#transactions)
-  - [Logs](#logs)
-  - [Receipts](#receipts)
+
 
 ### Charts and Dashboard 
 
