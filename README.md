@@ -45,8 +45,11 @@ Navigate to ```icon-analytics/aws```. You will find all the needed infrastructur
 
 ### SQL Analysis  
 
-- Schemas
-
+- [Schemas]
+  - [Blocks]
+  - [Transactions]
+  - [Logs]
+  - [Receipts]
 
 ### Charts and Dashboard 
 
