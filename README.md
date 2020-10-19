@@ -8,7 +8,7 @@ Analyze the blocks and quantify anomalies. Data Source : ICON Blockchain
 3. [Usage](#Usage)
     - [Project Infrastructure](#Project-Infrastructure)
     - [SQL Analysis](#SQL-Analysis)
-        - [Schemas](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md)
+        - [Schemas](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#sql-schemas)
     - [Charts and Dashboard](#Charts-and-Dashboard)
 
 ## Motivation
@@ -45,11 +45,11 @@ Navigate to ```icon-analytics/aws```. You will find all the needed infrastructur
 
 ### SQL Analysis  
 
-- [Schemas]
-  - [Blocks]
-  - [Transactions]
-  - [Logs]
-  - [Receipts]
+- [Schemas](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#sql-schemas)
+  - [Blocks](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#blocks)
+  - [Transactions](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#transactions)
+  - [Logs](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#logs)
+  - [Receipts](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#Receipts)
 
 ### Charts and Dashboard 
 
