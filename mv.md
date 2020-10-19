@@ -30,3 +30,14 @@ FROM(
     WHERE LEFT(to_address, 2) = '')
 ) transactions_count;
 ```
+
+## Addresses with most transactions received
+```
+create materialized view addresses_with_most_transactions_received as
+select temp_table.ct, temp_table.to_address
+FROM(
+    (SELECT count(*) as ct, to_address
+    FROM transactions group by to_address)
+) temp_table;
+
+```
