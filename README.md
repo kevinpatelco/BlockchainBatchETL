@@ -8,11 +8,7 @@ Analyze the blocks and quantify anomalies. Data Source : ICON Blockchain
 3. [Usage](#Usage)
     - [Project Infrastructure](#Project-Infrastructure)
     - [SQL Analysis](#SQL-Analysis)
-        - [Schemas](#schemas)
-            - [Blocks](#blocks)
-            - [Transactions](#transactions)
-            - [Logs](#logs)
-            - [Receipts](#receipts)
+        - [Schemas](https://github.com/kevinpatelco/repo/blob/branch/other_file.md)
     - [Charts and Dashboard](#Charts-and-Dashboard)
 
 ## Motivation
