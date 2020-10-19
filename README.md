@@ -9,6 +9,7 @@ Analyze the blocks and quantify anomalies. Data Source : ICON Blockchain
     - [Project Infrastructure](#Project-Infrastructure)
     - [SQL Analysis](#SQL-Analysis)
         - [Schemas](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#sql-schemas)
+        - [Materialized Views](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#materialized-views)
     - [Charts and Dashboard](#Charts-and-Dashboard)
 
 ## Motivation
