@@ -53,14 +53,14 @@ Navigate to ```icon-analytics/aws```. You will find all the needed infrastructur
   - [Receipts](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/schemas.md#Receipts)
   
 - [Materialized Views](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#materialized-views) 
-  - [Transactions Count Distribution](#transactions-count-distribution)
-  - [Addresses with most transactions received](#addresses-with-most-transactions-received)
-  - [Transactions cluster to and from](#transactions-cluster-to_and-from)
-  - [Score addresses with most transactions](#score-addresses-with-most-transactions)
-  - [Distinct data types(transactions)](#distinct-transaction-data-types(transactions))
-  - [Transactions destination distinct count distribution](#transactions-destination-distinct-count-distribution)
-  - [No Address transaction data type](#no_address-transaction-data-type)
-  - [No address transaction by value](#no-address-transaction-by-value)
+  - [Transactions Count Distribution](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#transactions-count-distribution)
+  - [Addresses with most transactions received](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#addresses-with-most-transactions-received)
+  - [Transactions cluster to and from](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#transactions-cluster-to_and-from)
+  - [Score addresses with most transactions](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#score-addresses-with-most-transactions)
+  - [Distinct data types(transactions)](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#distinct-transaction-data-types(transactions))
+  - [Transactions destination distinct count distribution](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#transactions-destination-distinct-count-distribution)
+  - [No Address transaction data type](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#no_address-transaction-data-type)
+  - [No address transaction by value](https://github.com/kevinpatelco/BlockchainBatchETL/blob/main/mv.md#no-address-transaction-by-value)
 
 ### Charts and Dashboard 
 
